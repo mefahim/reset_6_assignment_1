@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font: roboto, sans-serif;
 }
 .container{
     max-width: 1190px;
@@ -114,4 +115,43 @@ header .flex{
     font-size: 20px;
     border-radius: 5px;
     border: 0px solid #fff;
+}
+footer{
+    background-color: black;
+    padding: 50px 0px;
+}
+footer .container{
+    justify-content: space-between; 
+    color: #fff;
+}
+.footer_left_content{
+    width: 40%;
+}
+.footer_left_content h2{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.footer_left_content p{
+    padding-bottom: 10px;
+}
+.footer_right_content input{
+    display: block;
+    padding: 10px;
+    background-color: black;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+}
+.footer_right_content h2{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.footer_right_content button{
+    margin-top: 20px;
+    background: #005FAC;
+    color: #fff;
+    padding: 10px 21px;
+    border-radius: 5px;
+    font-size: 15px;
 }
