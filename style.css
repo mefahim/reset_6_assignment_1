@@ -97,6 +97,9 @@ header .flex{
     /* background-size: cover; */
     padding: 0px;
 }
+.positive_mindset{
+    padding-bottom: 60px;
+}
 .content{
     position: relative;
 }
@@ -154,4 +157,8 @@ footer .container{
     padding: 10px 21px;
     border-radius: 5px;
     font-size: 15px;
+}
+.footer_left_content p span{
+    font-size: 20px;
+    padding-right: 10px;
 }
