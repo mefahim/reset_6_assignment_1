@@ -67,3 +67,26 @@ header .flex{
     font-size: 20px;
     display: inline-block;
 }
+.my_plans{
+    padding: 50px 0px;
+}
+.plan_item{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.plan_item img{
+    padding-bottom: 20px;
+}
+.plan_item p{
+    padding-top: 10px;
+    color: #737272;
+    font-size: 20px;
+}
+.plan_items{
+    justify-content: space-between; 
+}
